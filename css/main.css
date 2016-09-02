@@ -1,0 +1,93 @@
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn-w{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 35px;
+  width: 70px;
+}
+.page-header{
+	padding-top: 40px;
+}
+.jumbotron{
+	color: white;
+	background-image: url(../img/Princiapl.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+}
+.separador{
+	height: 10px;
+}
+
+.ball{
+	font-size: 50px;
+	background-color: red;
+}
+.contacto{
+	margin-top: -280px;
+}
+.logo{
+	padding-top: 5px;
+	margin-top: -15px;
+	margin-right: 300px;
+	width: 60px;
+}
+.img{
+	width: 250px;
+	height: 250px;
+}
+.top{
+	margin-top: -180px;
+}
+h1{
+	font-family: 'Aller Bold', sans-serif;
+	font-size: 1.5em;
+}
+h2,h3{
+	font-family: 'Aller Regular',sans-serif;
+}
+h2{
+	font-size: 1.8em;
+}
+h3{
+	font-size: 1.5em;
+}
+h4, p{
+	font-family: 'Aller Light', sans-serif;
+	font-size: 1em;
+}
+small{
+	font-family: 'Aller Regular', sans-serif;
+	font-size: 0.9em;
+}
+body{
+	background-color: #efefef;
+	font-family: 'Open Sans', sans-serif;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-ms-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
+@font-face{
+	font-family: 'Aller Regular';
+	src: url('../fonts/aller.regular.ttf');
+}
+@font-face{
+	font-family: 'Aller Bold';
+	src: url('../fonts/aller.bold.ttf');
+}
+@font-face{
+	font-family: 'Aller Light';
+	src: url('../fonts/aller.light.ttf');
+}
+
+/*font-family: 'Open Sans', sans-serif;*/
+
+
